@@ -1,3 +1,4 @@
+#practice for list
 n=int(input("Enter the lenght of list :"))
 l=[]
 for i in range(0,n):
